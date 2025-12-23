@@ -4,7 +4,12 @@
 
 ---
 
-- Aspiring fullstack software engineer
+  • I’m a penultimate-year Information Technology student specialising in full-stack software development
+  • I bring a strong balance of technical capability and communication skills, developed through leadership roles
+  • Known for translating complex problems into practical solutions, I thrive in Agile teams and take ownership from idea through to delivery
+  • I am actively seeking intern, graduate or junior software engineering opportunities where I can contribute immediately, continue learning, and add long-term value to a forward-thinking team
+
+---
 
 ## 🛠 Tech Stack
 
@@ -21,3 +26,5 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
