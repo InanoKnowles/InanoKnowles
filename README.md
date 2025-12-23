@@ -2,12 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=374AFF&multiline=true&width=700&height=150&lines=%F0%9F%91%8B++Welcome+to+my+GitHub+Page+%F0%9F%91%8B;University+Student+-+Bachelor+of+IT;Founding+President+of+The+Emerging+Coders+Hub;2025+Women+in+Digital+Rising+Star+Winner;She+Codes+Australia+Plus+Program+Scholarship+Recipient+;OPEN+TO+WORK)](https://git.io/typing-svg)
 
+## My Portfolio
+🔗 (Click here: https://inanoknowles.github.io/) 🔗
 ---
 
-  • I’m a penultimate-year Information Technology student specialising in full-stack software development
-  • I bring a strong balance of technical capability and communication skills, developed through leadership roles
-  • Known for translating complex problems into practical solutions, I thrive in Agile teams and take ownership from idea through to delivery
-  • I am actively seeking intern, graduate or junior software engineering opportunities where I can contribute immediately, continue learning, and add long-term value to a forward-thinking team
+  - I’m a penultimate-year Information Technology student specialising in full-stack software development
+  - I bring a strong balance of technical capability and communication skills, developed through leadership roles
+  - Known for translating complex problems into practical solutions, I thrive in Agile teams and take ownership from idea through to delivery
+  - I am actively seeking intern, graduate or junior software engineering opportunities where I can contribute immediately, continue learning, and add long-term value to a forward-thinking team
 
 ---
 
