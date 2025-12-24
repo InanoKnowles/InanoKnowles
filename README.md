@@ -1,24 +1,16 @@
 ![Banner Image](banner.png)
 
-🔗 [Visit My Portfolio](https://inanoknowles.github.io/) 🔗
-✉️ Email: missinanoknowles@gmail.com ✉️
+- 🔗 [Visit My Portfolio](https://inanoknowles.github.io/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=400&color=175EB3&multiline=true&width=900&height=210&lines=Welcome+to+my+GitHub+Profile;%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%8E%93+University+Student+-+Bachelor+of+Information+Technology;%F0%9F%92%BB+Coding+Instructor+for+5-15+year+old+children;%F0%9F%98%8E+Founding+President+of+QUT+The+Emerging+Coders+Hub;%F0%9F%8F%86+Guild+nominated+President+of+the+Year+Winner+in+2025;%F0%9F%8F%86+She+Codes+Australia+Full+Scholarship+Recipient+2025-2026;%F0%9F%8F%86+Rising+Star+Award+Winner+at+the+Women+in+Digital+National+Awards+in+2025;%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD;OPEN+TO+WORK+%7C+AVAILABLE+TO+START+WORKING+ASAP;%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD%F0%9F%91%86%F0%9F%8F%BD)](https://git.io/typing-svg)
+- ✉️ Email: missinanoknowles@gmail.com
+
+- 💼 LinkedIn: https://www.linkedin.com/in/inanoknowles
 
 ---
 
-**Open to:** 
-- Intern, 
-- graduate, 
-- junior and, 
-- entry level software engineering roles. 
-Where I can continue developing my skills and delivering value in Brisbane-based office, hybrid or remote software engineering roles
+## 👩🏾 About Me
 
-## What I bring to a team
-- **Delivery mindset:** I ship features end-to-end (frontend, backend, database, APIs).
-- **Clear communicator:** experienced explaining technical concepts to different audiences.
-- **Team-first leadership:** club founder and event facilitator, comfortable coordinating people and priorities.
-- **Agile-ready:** organised, adaptable, and used to fast-paced, collaborative work.
+<p>I am a penultimate-year Information Technology student working towards a career in software engineering, with hands-on experience through academic projects and personal development work using modern web technologies. I am eager to apply my skills in a real-world environment, learn from experienced engineers, and contribute positively to a collaborative team. I bring strong communication, problem-solving and organisational skills developed through leadership and teaching roles, and I am seeking intern, graduate or junior software engineering opportunities where I can grow and add value.</p>
 
 ---
 
@@ -55,5 +47,25 @@ Where I can continue developing my skills and delivering value in Brisbane-based
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=1000&pause=50&color=112BC3&background=FFFFFF&vCenter=true&multiline=true&repeat=false&width=700&height=200&lines=Software+Engineer;+Founding+President+of+The+Emerging+Coders+Hub;QUT+Student+Guild+Nominated+President+of+the+Year+2025;Rising+Star+Award%2C++Women+in+Digital+National+Awards+2025;She+Codes+Australia+Scholarship+Recipient;%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD%F0%9F%91%87%F0%9F%8F%BD;Open+To+Work+%7C+Available+to+Start+ASAP+%7C+Australian+Citizen;%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC%F0%9F%99%8F%F0%9F%8F%BC)](https://git.io/typing-svg)
+
+---
+
+**Open to:** 
+- Intern, 
+- graduate, 
+- junior and, 
+- entry level software engineering roles. 
+Where I can continue developing my skills and delivering value in Brisbane-based office, hybrid or remote software engineering roles
+
+## What I bring to a team
+- **Delivery mindset:** I ship features end-to-end (frontend, backend, database, APIs).
+- **Clear communicator:** experienced explaining technical concepts to different audiences.
+- **Team-first leadership:** club founder and event facilitator, comfortable coordinating people and priorities.
+- **Agile-ready:** organised, adaptable, and used to fast-paced, collaborative work.
+
+---
+
 <h3 align="left">Support my Growth:</h3>
+<p>If you enjoy my work and would like to support my journey through my studies, you are welcome to make a small donation via Buy Me a Coffee. Your support helps me continue learning, building projects, and growing as a developer. Please note this is a voluntary donation and not a purchase of services.</p>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/inano_tech"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/inano_tech" /></a></p><br><br>
