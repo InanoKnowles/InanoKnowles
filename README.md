@@ -2,7 +2,7 @@
 
 - 🔗 [Visit My Portfolio](https://inanoknowles.github.io/)
 
-- ✉️ Email: missinanoknowles@gmail.com
+- ✉️ Email: inanoktech@gmail.com
 
 - 💼 LinkedIn: https://www.linkedin.com/in/inanoknowles
 
